@@ -24,7 +24,7 @@ SnakeGame/
 ├── clips/              # Sound effects (.wav, .mp3)
 ├── src/                # Java source files
 ├── scores.txt          # Score storage file
-└── README.md           # This file
+└── README.md
 ```
 
 ## ▶️ How to Run
@@ -68,7 +68,7 @@ Make sure the `clips` folder and `scores.txt` file are accessible in the working
 
 ![Scores](screenshots/scores.png)
 
-## 🧠 What I Learned
+## 🧠 What I Learned building the Game
 
 - Building GUIs using Java Swing
 - Organizing game logic with OOP principles
